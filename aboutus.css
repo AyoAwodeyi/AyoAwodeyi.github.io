@@ -1,0 +1,20 @@
+* {
+  background-color: antiquewhite;
+  border: 4cm;
+  align-content: center;
+}
+
+img {
+  width: 150;
+  height: 45;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+}
