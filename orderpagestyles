@@ -1,0 +1,19 @@
+table,
+th,
+td {
+  border: 1px solid;
+  height: 100px;
+}
+th {
+  font-weight: bold;
+  font-family: cursive;
+}
+
+* {
+  background-color: antiquewhite;
+  font: sans-serif;
+}
+
+.submissionSection button {
+  float: right;
+}
